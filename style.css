@@ -1,0 +1,53 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+
+.container{
+    padding: 30px 10px;
+    background-color: rgb(47, 255, 71);
+    margin-top: 10%;
+    
+}
+
+.content{
+    background-color: aliceblue;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.ip{
+    margin:20px 0px;
+}
+
+h2{
+    font-family: sans-serif;
+    margin-bottom: 0;
+}
+ p{
+    padding: 0;
+    margin: 0;
+    font-style: italic;
+}
+
+button{
+    border-radius: 20px;
+    border: 0;
+    background-color: rgb(12, 171, 234);
+    color: white;
+    padding: 5px;
+}
+
+.empty{
+    background-color:brown;
+}
+.save{
+    background-color: rgb(47, 255, 71);
+}
+
+.strick{
+    text-decoration: line-through;
+    background-color: antiquewhite;
+    opacity: .4;
+}
+
